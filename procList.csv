@@ -1,0 +1,8 @@
+from,to,weight,strength
+sp_make.stuff, bob,x,9
+sp_make.stuff, sue,c,8
+sp_make.stuff, joe,x,9
+sp_more_stuff, bob,x,88
+sp_more_stuff, noah,c,6
+sp_more_stuff, george,c,8
+sp_not_now, joe,x,4
